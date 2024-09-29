@@ -23,11 +23,17 @@ git clone https://github.com/singhrimiumesh/Image-to-Text-OCR.git
 cd your-repository
 ```
 ### 2. Create a Virtual Environment
+```bash
 python -m venv ocr_env
 source ocr_env/bin/activate   # On Windows use: ocr_env\Scripts\activate
-
+```
 ### 3. Install the Required Libraries
+```bash
 pip install -r requirements.txt
+```
 
 ### 4. Run the Application (Gradio)
+```bash
 python app.py
+```
+
