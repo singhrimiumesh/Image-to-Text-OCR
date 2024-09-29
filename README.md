@@ -22,9 +22,12 @@ To run this project locally, follow these steps:
 git clone https://github.com/singhrimiumesh/Image-to-Text-OCR.git
 cd your-repository
 
+### 2. Create a Virtual Environment
 python -m venv ocr_env
 source ocr_env/bin/activate   # On Windows use: ocr_env\Scripts\activate
 
+### 3. Install the Required Libraries
 pip install -r requirements.txt
 
+### 4. Run the Application (Gradio)
 python app.py
