@@ -11,7 +11,7 @@ This web application allows users to upload an image containing text in both Hin
 - Search for keywords in the extracted text, with highlights on matches.
 
 ## Demo
-You can try the live demo here: [Live Demo URL](#) 
+You can try the live demo here: [Live Demo URL](https://huggingface.co/spaces/rimisingh/OCR_Text_Exraction) 
 
 ## Installation (Local Setup)
 
